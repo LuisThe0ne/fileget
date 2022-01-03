@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "fileget": {
+      "commandName": "Project"
+    },
+    "Profil 7ZIP Download": {
+      "commandName": "Project",
+      "commandLineArgs": "web \"https://www.7-zip.org/a/7z2107-x64.exe\" \"C:\\Users\\luis.XCITSNET\\Documents\\zip.exe\""
+    },
+    "Profil Debug": {
+      "commandName": "Project",
+      "commandLineArgs": "debug"
+    },
+    "Profil Ubuntu Dl": {
+      "commandName": "Project",
+      "commandLineArgs": "web \"https://ubuntu.anexia.at/ubuntu-releases/20.04/ubuntu-20.04.3-desktop-amd64.iso\" \"C:\\Users\\luis.XCITSNET\\Documents\\ubuntu.iso\""
+    }
+  }
+}
