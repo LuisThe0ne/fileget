@@ -3,13 +3,11 @@ fileget is an Application similar to wget built with user friendliness and cross
 
 ## Index
 <!--ts-->
-*[Compatibility](#Compatibility)
-
-*[Usage](#Usage)
-
-   *[Windows](#Windows)
-    
-   *[Linux](#Linux)
+   * [Compatibility](#Compatibility)
+   * [Usage](#Usage)
+      * [Windows](#Windows)
+      * [Linux](#Linux)
+   * [DownloadTypes](#DownloadTypes)
 <!--te-->
     
 # Compatibility
