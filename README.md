@@ -1,6 +1,12 @@
 # fileget
 fileget is an Application similar to wget built with user friendliness and cross-platform compatibility in mind.
 
+## Index
+[Compatibility](#Compatibility)
+[Usage](#Usage)
+    [Windows](#Windows)
+    [Linux](#Linux)
+    
 # Compatibility
 
 | Operating System | Compatible | Tested      |
