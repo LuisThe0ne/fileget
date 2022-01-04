@@ -108,10 +108,5 @@ namespace filgetlib
             Console.WriteLine("");
             Console.WriteLine("Download completed!");
         }
-
-        public static void DebugTest()
-        {
-
-        }
     }
 }
